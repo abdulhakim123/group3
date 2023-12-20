@@ -28,12 +28,7 @@ pip install pyqt5
 pip install pyqt5-tools
 
 
-
-import PyQt5
-
-from PyQt5.QtWidgets import QApplication, QWidget
-
-from PyQt5.QtGui import QIcon
+######3333
 
 class App(QWidget):
     def __init__(self):
